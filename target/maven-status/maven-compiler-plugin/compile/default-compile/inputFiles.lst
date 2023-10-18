@@ -1,0 +1,10 @@
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/CoordinateUtil.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/MuseumLoader.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/CollectionTypeCount.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/MuseumFinderApplication.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/database/MuseumFakeDatabase.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/model/Coordinate.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/controller/CollectionTypeController.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/CollectionTypeService.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/ModelDtoConverter.java
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/MuseumServiceInterface.java

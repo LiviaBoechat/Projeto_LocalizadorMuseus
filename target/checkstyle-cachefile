@@ -1,0 +1,14 @@
+#Thu Oct 05 14:11:20 BRT 2023
+configuration*?=6D7616BC8C621024A9594921C2C9DEF6CD087613
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/CoordinateUtil.java=1696525456740
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/controller/CollectionTypeController.java=1696525456740
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/model/Coordinate.java=1696525456740
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/ModelDtoConverter.java=1696525456740
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/MuseumServiceInterface.java=1696525456740
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/MuseumLoader.java=1696525456740
+module-resource*?\:checkstyle-xpath-suppressions.xml=83B31077CCD09976C3184CA37AFB901AA9F0AAA6
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/MuseumFinderApplication.java=1696525456740
+module-resource*?\:checkstyle-suppressions.xml=81D608C88DE958726FA59C3BC203B5B41F50E9FF
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/CollectionTypeCount.java=1696525456740
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/database/MuseumFakeDatabase.java=1696525456740
+/home/livia/Documentos/projetos/java-028-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/CollectionTypeService.java=1696525456740
